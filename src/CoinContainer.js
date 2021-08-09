@@ -7,12 +7,11 @@ class CoinContainer extends Component {
     coins: [
       {
         side: "heads",
-        imgSrc:
-          "https://upload.wikimedia.org/wikipedia/commons/c/cd/S_Half_Dollar_Obverse_2016.jpg",
+        imgSrc: "./heads.jpeg",
       },
       {
         side: "tails",
-        imgSrc: "http://www.pcgscoinfacts.com/UserImages/71009269r.jpg",
+        imgSrc: "./tails.jpeg",
       },
     ],
   };
